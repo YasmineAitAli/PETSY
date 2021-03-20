@@ -1,3 +1,3 @@
-# PETSY 
+# PETSY : projet personnel
  
- Application mobile pour adoption des animaux domestiques.
+ Développement d'une application mobile pour adoption des animaux domestiques.
