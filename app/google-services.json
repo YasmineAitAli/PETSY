@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "665482599954",
+    "firebase_url": "https://petsy-4d574.firebaseio.com",
+    "project_id": "petsy-4d574",
+    "storage_bucket": "petsy-4d574.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665482599954:android:e3129ff8ff69cff4c7c2cb",
+        "android_client_info": {
+          "package_name": "AitAli.Yasmine.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665482599954-c1oouag5kve9pip8gibomnkkdok1thfk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "AitAli.Yasmine.com",
+            "certificate_hash": "75f80522938a286dfb799c5b8471a8f1e54fb9e2"
+          }
+        },
+        {
+          "client_id": "665482599954-k0pstiovjqelofmk956ltl4ci1r9utq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXqfAmufeNWPSqWWFcUamgyGCU2JdiPWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665482599954-k0pstiovjqelofmk956ltl4ci1r9utq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
